@@ -4,7 +4,8 @@
   "description": "A server built to practice creating servers with expressJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "Cian O'Gralaigh",
   "license": "ISC",
